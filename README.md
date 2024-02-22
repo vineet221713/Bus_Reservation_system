@@ -50,12 +50,7 @@ Following ER diagram indicates the database tables and thier interaction which w
 
 
 
-## Contributors
-- [@Vamsi Krishna](https://github.com/Vamsi4612)
-- [@Vineet Kumar Singh](https://github.com/vineet221713)
-- [@Shubham Garg](https://github.com/shubhamgarg7239)
-- [@Siva Kumar](https://github.com/yendasivakumar)
-## Installation & Run
+
 
 - Before running the API server, you should update the database config inside the [application.properties] file.
 - Update the port number, username and password as per your local database config.
